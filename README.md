@@ -20,9 +20,12 @@ Dataset includes 4 different related tables including: transaction information, 
 - RFM analysis numerically ranks a customer in each of these three categories, generally on a scale of 1 to 5 (the higher the number, the better the result). The “best” customer would receive a top score in every category.
 
 ## II. Data Visualization with Python
-- **MoM Retention Rate for Customer Transaction Data**
-
-![image](https://user-images.githubusercontent.com/101726623/235667786-ca76e568-bb3e-4a8b-877a-ca051be85f0c.png)
+<img src="https://imgur.com/oSBsiTW">
+<img src="https://imgur.com/6LxB3GC">
+<img src="https://imgur.com/6pPJYJd">
+<img src="https://imgur.com/7d3k28t">
+<img src="https://imgur.com/jGuaaAO">
+<img src="https://imgur.com/jGuaaAO">
 
 ## III. Insights
 ### 1. Recency, Frequency and Monetory value of Superstore:
