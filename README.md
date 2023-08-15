@@ -21,6 +21,11 @@ Dataset includes 4 different related tables including: transaction information, 
 
 ## II. Data Visualization with Python
 ![image](https://github.com/thuhuongphan11/Python_RFM_analysis/assets/141643891/90f6a2e2-61b5-4782-aee4-af3e2578bfd8)
+![image](https://github.com/thuhuongphan11/Python_RFM_analysis/assets/141643891/ca09e622-6d12-4c39-91e2-975b0fc6f88b)
+![image](https://github.com/thuhuongphan11/Python_RFM_analysis/assets/141643891/5ead6a42-d14a-4556-84aa-ff0d146b0808)
+![image](https://github.com/thuhuongphan11/Python_RFM_analysis/assets/141643891/4f68b658-6eba-4675-925a-c92c0fda52e2)
+![image](https://github.com/thuhuongphan11/Python_RFM_analysis/assets/141643891/c60e2614-4cb0-4e9c-8e59-1bcf44b85c9e)
+![image](https://github.com/thuhuongphan11/Python_RFM_analysis/assets/141643891/f1ef3731-e6a2-4422-a5ed-c5e238f5915d)
 
 ## III. Insights
 ### 1. Recency, Frequency and Monetory value of Superstore:
