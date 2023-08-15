@@ -43,7 +43,7 @@ The cart_value decreased in 2 categories Furniture and Technology in 2017 despit
 There is a change in the buying behavior of 2 channels Consumer and Home Office in 2017. They tend to place more orders but the value of each order is lower, specifically:
 - Consumer group in 2017 increased orders by 40% (from 112 to 186 orders) but cart_value decreased by 26% (from 292 USD to 214 USD).
 - Home Office in 2017 increased orders by 76% (from 30 to 53 orders) but cart_value decreased by 22% (from 276 USD to 225 USD
-### 3b. At Risk
+#### 3b. At Risk
 In 2017, all 3 Categories showed a decrease in orders and revenue, 2 Categories Office Supplies and Technology experienced a decrease in cart value:
 - Cart value of Office Supplies group in 2017 decreased by 23% (from 263 USD to 203 USD)
 - Cart value of Technology group in 2017 decreased by 22% (from 836 USD to 651 USD)
