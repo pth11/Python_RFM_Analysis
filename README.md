@@ -7,10 +7,22 @@
 - With the retail model of Superstore company, which indicator should be most focused in in the 3 indicators R, F, and M?
 ### 2. Dataset
 Dataset includes 4 different related tables including: transaction information, products information, returned orders of customers purchasing products from 2014 to 2017 and RFM classification
-- **Transaction information dataframe** 
+- **Transaction information dataframe**
+
+    ![image](https://github.com/thuhuongphan11/thuhuongphan11/assets/141643891/a0f64d63-de32-4b09-ad84-bfc81b167fe5)
+
 - **Returned orders dataframe**: We have to filter orders that were not returned before RFM anaalysis.
+
+    ![image](https://github.com/thuhuongphan11/thuhuongphan11/assets/141643891/18228495-7036-4b51-aa6c-bfc12d488658)
+
 - **Segmentation dataframe**: 'Product ID' is not unique because some products have same Product ID but have different Product Name => drop 'Product Name' then remove duplicate records so that 'Product ID' will be unique.
+
+    ![image](https://github.com/thuhuongphan11/thuhuongphan11/assets/141643891/61e92f32-9a77-43f3-a8c4-7afdcf803423)
+
 - **Products dataframe**: We have to split each RFM score into single rows
+
+    ![image](https://github.com/thuhuongphan11/thuhuongphan11/assets/141643891/e2293591-5b03-43d1-9674-b0cab8bc3a76)
+
 ### 3. RFM model
 - RFM is a method used for analyzing customer value. It is commonly used in database marketing and direct marketing and has received particular attention in retail and professional services industries
 - RFM stands for the three dimensions:
