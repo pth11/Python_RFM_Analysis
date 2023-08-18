@@ -1,4 +1,6 @@
 # Python_RFM_Analysis: Customer segmentation
+Please see the coding file attached or reach this link 
+https://colab.research.google.com/drive/1LRZm6U5MVzR6KA0nK2qaWbN23kW9uoES#scrollTo=962e9ee5
 
 ## I. Introduction
 ### 1. Business question
