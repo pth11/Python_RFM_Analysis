@@ -74,11 +74,15 @@ In 2017, while the Consumer and Corporate channels experienced a decrease in the
 ## IV. Recommendations
 Superstore should focus more on enhancing Recency and Frequency performance.
 In this Christmas - New Year marketing campaign, SuperStore needs to prioritize their efforts to promote the Potential Loyalist group to become Loyal and Champions, and find ways to reconnect with customers in the At Risk group
-Reccomendations for Potential Loyalist segment
+
+**Reccomendations for Potential Loyalist segment:**
+
 - Special promotions are needed for customers that buy products in the same category and reach a cart_value above 238.68 USD (current average cart_value of this segment) to motivate customers to buy related products and increase the cart value.
 - Offer membership/loyalty program, focusing on 2 channels Consumer and Home Office and 2 categories Furniture and Technology.
 - Recommend to customers the best-selling Sub-category such as Paper, Binders, Furnishings, Storage and Art
-Recommendations for At Risk segment:
+
+**Recommendations for At Risk segment:**
+
 - Channels and Categories with a high number of return orders all have a decrease in the number of orders, revenue and cart value => Need to do a deeper analysis of the correlation between these factors
 - Start a new program (exchange points/gifts/vouchers) for customers in these groups to get them to do a survey to find out the main reason why these customers have not come back for a long time.
 - Since nearly 60% of orders use Ship mode Standard Class, the free upgrade to Second Class policy can be included in the new campaign
